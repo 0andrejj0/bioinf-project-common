@@ -1,3 +1,5 @@
 data/*
 !data/.gitkeep
+local_programs
+!local_programs/.gitkeep
 .venv
