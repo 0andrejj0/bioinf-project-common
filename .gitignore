@@ -3,3 +3,4 @@ data/*
 local_programs
 !local_programs/.gitkeep
 .venv
+M11CC_Out/*
