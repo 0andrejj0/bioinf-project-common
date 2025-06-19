@@ -16,4 +16,22 @@
 
 [Вступительная презентация](https://docs.google.com/presentation/d/1dEg5m09Ou5fLq66mmTET-Pc5kM6i8EZ-/edit?usp=sharing&ouid=111170523725732385002&rtpof=true&sd=true)
 
-[Финальная презентация](TODO)
+[Финальная презентация](https://docs.google.com/presentation/d/1LRJV4G3tfidIk7cvO3JQpLVaJcbY01DF/edit?slide=id.g35b953ee939_0_0#slide=id.g35b953ee939_0_0)
+
+### Выравнивания генов, отвечающих за эпигенетику:
+
+![ACINU](images/ACINU.png)
+
+![AEBP2](images/AEBP2.png)
+
+![ARID1A](images/ARID1A.png)
+
+![ATR](images/ATR.png)                                                                                          
+
+![ATR](images/ATRX.png)                                                                                          
+
+![BAP1](images/BAP1.png)
+
+![BARD1](images/BARD1.png)
+
+![CBX4](images/CBX4.png)
